@@ -7,8 +7,8 @@ import 'package:http/http.dart' as http;
 
 const String postUrl = '$flask_ip/monitor_vitals';
 final TwilioService twilioService = TwilioService(
-  accountSid: 'AC24d4c38e95b1445415f975fbb1cb9064',
-  authToken: '6fc19923035b99f372501b69e53978bd',
+  accountSid: 'YOUR_SID',
+  authToken: 'YOUR_AUTH',
 );
 Future<void> fetchAndSendVitals() async {
   try {
