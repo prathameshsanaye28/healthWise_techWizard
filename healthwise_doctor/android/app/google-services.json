@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "174543887846",
+    "project_id": "pawspartnersfinal",
+    "storage_bucket": "pawspartnersfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174543887846:android:a91908e13ae848dff64a27",
+        "android_client_info": {
+          "package_name": "com.example.aura_techwizard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EN0dexQu3WwHYE60HJYSkEeZGSWsp5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174543887846:android:dcce857d11b614dcf64a27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EN0dexQu3WwHYE60HJYSkEeZGSWsp5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174543887846:android:0b216342ef5dc953f64a27",
+        "android_client_info": {
+          "package_name": "com.example.healthwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EN0dexQu3WwHYE60HJYSkEeZGSWsp5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174543887846:android:6232c20f40739304f64a27",
+        "android_client_info": {
+          "package_name": "com.example.healthwise_patient_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EN0dexQu3WwHYE60HJYSkEeZGSWsp5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174543887846:android:cf8b3ba90c6c262af64a27",
+        "android_client_info": {
+          "package_name": "com.example.netwealth_vjti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EN0dexQu3WwHYE60HJYSkEeZGSWsp5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174543887846:android:ff7fc9716bc7cbfcf64a27",
+        "android_client_info": {
+          "package_name": "com.example.paws_partners_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EN0dexQu3WwHYE60HJYSkEeZGSWsp5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
